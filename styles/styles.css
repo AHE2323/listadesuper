@@ -1,0 +1,32 @@
+html{
+  font-size: 16px;
+}
+
+body { /*lo visual de la pagina*/
+
+}
+
+h1 {
+  color:#2E64FE;/*color*/
+  font-family:'Abel',sans-serif;/*tipo de letra*/
+  font-size:7em; /*tamaño*/
+  background-color: white;/*fondo*/
+  text-align: center; /*posicion de la letra*/
+}
+
+h2 {
+  color:red;
+  font-family:'Abel',sans-serif;
+  font-size:25px;
+}
+
+img{
+width: 100px;/*tamaño en pixeles px porcentaje %  */
+height:auto; /*alto*/
+}
+.imagenLac { /*usamos class*/
+  width: 150px
+}
+#pollo {  /*un id es unico*/
+  width: 200px;
+  }
